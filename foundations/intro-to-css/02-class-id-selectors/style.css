@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.bob {
+    background-color: rgb(229, 99, 153);
+    font-family: "Verdana", "DejaVu Sans", "Sans-serif";
+}
+
+#special1 {
+    color: rgb(43, 86, 200);
+    font-size: 36px;
+}
+
+.bob.cooler {
+    font-size: 24px;
+}
+
+#special2 {
+    background-color: rgb(165, 235, 175);
+    font-size: 24px;
+    font-weight: bold;
+}
+
